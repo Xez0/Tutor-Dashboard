@@ -10,6 +10,37 @@
 
 ---
 
+## ➕ Struktur File Project
+
+```
+dashboard/
+│
+├── index.html              # Halaman utama (dashboard, pie chart, menu)
+├── style.css               # Style global
+├── script.js               # Script utama (pie chart, sidebar, routing)
+│
+├── per1.html               # Pertemuan 1
+├── per2.html               # Pertemuan 2
+├── per3.html
+├── per4.html
+├── per5.html
+├── per6.html
+├── per7.html
+├── per8.html
+├── per9.html
+├── per10.html
+├── per11.html
+├── per12.html
+├── per13.html
+├── per14.html
+│
+└── assets/
+     ├── img/               # (Opsional) Untuk gambar-gambar
+     └── materi/            # (Opsional) Untuk file PDF materi
+```
+
+---
+
 ## ➕ Prompt ke ai:
 
 ### 1:
