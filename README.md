@@ -23,7 +23,7 @@
   - Materi Pertemuan 14 : [Link PDF](https://sakura.unpam.ac.id/api/file/a7c17e1a-1d86-49f7-a7f2-4dfee3a7d094)
 
   </details>
-* AI ( Rekomendasi: [Manus Ai](https://manus.im), [Genspark Ai](https://www.genspark.ai), [Gemini](https://aistudio.google.com/) )
+* AI ( Rekomendasi: [Manus Ai](https://manus.im), [Genspark Ai](https://www.genspark.ai), [Gemini 2.5 Pro](https://aistudio.google.com/) )
 * Fake Email: [m.kuku.lu](https://m.kuku.lu), [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html)
 * Sabar
 
